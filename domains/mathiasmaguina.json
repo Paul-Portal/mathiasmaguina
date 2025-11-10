@@ -1,13 +1,12 @@
 {
+  "description": "Mi aplicación en AWS EC2",
+  "repo": "https://github.com/TU-USUARIO-GITHUB/Paul-Portal",
   "owner": {
-    "email": "mathiasmaguinacastro@gmail.com"
+    "username": "Paul-Portal",
+    "email": "mathiasmaguinacastro@GMAIL.COM"
   },
-  "records": {
-    "NS": [
-      "ns-506.awsdns-63.com.",
-      "ns-1738.awsdns-25.co.uk.",
-      "ns-875.awsdns-45.net.",
-      "ns-1420.awsdns-49.org."
-    ]
+  "record": {
+    "A": ["3.136.239.10"],
+    "TXT": ["is-a-dev"]
   }
 }
