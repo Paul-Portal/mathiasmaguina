@@ -2,12 +2,7 @@
   "owner": {
     "email": "mathiasmaguinacastro@gmail.com"
   },
-  "records": {
-    "NS": [
-      "ns-506.awsdns-63.com.",
-      "ns-1738.awsdns-25.co.uk.",
-      "ns-875.awsdns-45.net.",
-      "ns-1420.awsdns-49.org."
-    ]
+  "record": {
+    "A": ["3.151.14.247"]
   }
 }
